@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../iup/include/iup.h
+iupkey.h
+../iup/include/iupkey.h
+iupdef.h
+../iup/include/iupdef.h
+
+../iup/include/iupdef.h
+
+../iup/include/iupkey.h
+
+C:/Users/gwachs/CLionProjects/projetoJanela/main.c
+stdlib.h
+-
+iup.h
+-
+stdio.h
+-
+
